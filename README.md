@@ -1,6 +1,6 @@
-# InternPedia Data Science Internship Project
+# Data Science Internship Project
 
-Welcome to the InternPedia Data Science Internship Project repository! This project aims to analyze unemployment data and derive insights using Python.
+Welcome to the Data Science Internship Project repository! This project aims to analyze unemployment data and derive insights using Python.
 
 ## Overview
 
